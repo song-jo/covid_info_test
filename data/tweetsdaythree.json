@@ -1994,8 +1994,8 @@
             "lang": "en",
             "text": "He spent \u201cabout a half hour\u201d this morning with his COVID team. \n\nWow. \ud83d\ude44 https://t.co/ZXnR9huWuN",
             "id": "1465081490170163207",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 222
         },
         {
@@ -2003,8 +2003,8 @@
             "lang": "en",
             "text": "Swiss Voters Approve Their Government\u2019s Covid Policy in a Referendum https://t.co/VhCspYAyjm",
             "id": "1465081488521707527",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 223
         },
         {
@@ -2012,8 +2012,8 @@
             "lang": "en",
             "text": "@DailyMail They made the omicron for the booster shot lol",
             "id": "1465081488400130063",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 224
         },
         {
@@ -2021,8 +2021,8 @@
             "lang": "en",
             "text": "Trillions of dollars be allocated for the creation of a global vaccination program. The distribution of vaccines must be administered by scientists and public health experts with a mandate to protect the whole world.",
             "id": "1465081488190447618",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 225
         },
         {
@@ -2030,8 +2030,8 @@
             "lang": "en",
             "text": "Got Covid symptoms? Don\u2019t worry, it\u2019s probably bog standard Delta, take an LFT and kick back, chill\u2026\n\nThe covid devs are waiting until Tuesday for the UK Omicron upgrade, so don\u2019t worry until then.",
             "id": "1465081488169488390",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 226
         },
         {
@@ -2039,8 +2039,8 @@
             "lang": "en",
             "text": "@Buck Leave the in poor taste Covid jokes to @artiequitter",
             "id": "1465081487393501193",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 227
         },
         {
@@ -2048,8 +2048,8 @@
             "lang": "en",
             "text": "@kylecottrill87 @KCCINews **Losing your job for exercising your \"right\" to NOT get vaccinated feels like tyranny. Apologies for the typo",
             "id": "1465081487238352905",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 228
         },
         {
@@ -2057,8 +2057,8 @@
             "lang": "en",
             "text": "@faryus88 @AfricaCDC @_AfricanUnion I completely agree. The world (tm) should do much more to provide Africans with access to the vaccine. However, it seems like vaccine hesitancy is an even bigger issue than vaccine access in many African countries. Would you concur with this gut feeling or am I wrong here?",
             "id": "1465081487120908290",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 229
         },
         {
@@ -2066,8 +2066,8 @@
             "lang": "en",
             "text": "@isabelmerana Wearing face mask only in establishments that mandate the wearing of mask.\nOtherwise, wearing mask in public is discretionary.\n\nOmicron variant might change things.",
             "id": "1465081486298734592",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 230
         },
         {
@@ -2075,8 +2075,8 @@
             "lang": "en",
             "text": "Media reporting this recent rise in #Covid19 cases in #SouthAfrica.\n\nLinking this to the #OmicronVariant.\n\nCases relatively low and they have started in past week adding in the Lateral Flow data to the numbers.\n\nSo latest changes may be impacted by this. \n\nhttps://t.co/xtZ8b8vzAF",
             "id": "1465081486265233412",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 231
         },
         {
@@ -2084,8 +2084,8 @@
             "lang": "en",
             "text": "@theSytoSchooler COVID is on a spike now bro",
             "id": "1465081485577363460",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 232
         },
         {
@@ -2093,8 +2093,8 @@
             "lang": "en",
             "text": "Theater \ud83c\udf7f\ud83d\ude48 - Czech President Milos Zeman, whom is being treated for Covid, has been wheeled and put into a glass case to appoint the country's new Prime Minister #NoMore #Covid1984 #NoVaccineMandates #NoVaccinePassports #GreatReset #gold #silver https://t.co/dvAm5vn8lu",
             "id": "1465081485468344325",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 233
         },
         {
@@ -2102,8 +2102,8 @@
             "lang": "en",
             "text": "@luvswrxsubarus @ReutersUS I got the vaccine. \nAre you trying this hard to be stupid or did you mutate from idiot to full blown imbecile?",
             "id": "1465081485048700933",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 234
         },
         {
@@ -2111,8 +2111,8 @@
             "lang": "en",
             "text": "Opinion | The federal workforce shows vaccine mandates work. Now for the rest of America. - The Washington Post https://t.co/x1D5lhqCkX",
             "id": "1465081482335113226",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 235
         },
         {
@@ -2120,8 +2120,8 @@
             "lang": "en",
             "text": "Nouveau SouthPark \nPost Covid! \ud83d\ude1c loll https://t.co/qYI7mOdLJk",
             "id": "1465081482263810051",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 236
         },
         {
@@ -2129,8 +2129,8 @@
             "lang": "en",
             "text": "Ontario Confirms First Two Cases of Omicron Variant | Ontario Newsroom https://t.co/2ptEFVuGJ1",
             "id": "1465081481634721792",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 237
         },
         {
@@ -2138,8 +2138,8 @@
             "lang": "en",
             "text": "Let's dial down the media &amp; government hysteria!!!\nhttps://t.co/nvMvJgSuDl",
             "id": "1465081480477089792",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 238
         },
         {
@@ -2147,8 +2147,8 @@
             "lang": "en",
             "text": "JUST IN (#OmicronVariant) via @CBCNews:\n\n\"There are two confirmed cases of the #omicron variant of the #coronavirus in #Ottawa, the #Ontario government announced Sunday.\"\nhttps://t.co/cikDFQFph3",
             "id": "1465081478933475338",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 239
         },
         {
@@ -2156,8 +2156,8 @@
             "lang": "en",
             "text": "Open SmartNews and read \"A Lung Doctor Broke Down the Omicron Variant in 5 Minutes\" here: https://t.co/MT7p6MW1H9 \nTo read it on the web, tap here: https://t.co/koz0xgnjc9 https://t.co/EAUSB2kluz",
             "id": "1465081478904041472",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 240
         },
         {
@@ -2165,8 +2165,8 @@
             "lang": "en",
             "text": "@GOPCantRead @AdamBaldwin Yes, people are dying and are going to die just like from the flu, high blood pressure,  diabetes   which kill more people annually than covid, but I don't see the news or doctors sounding the alarm here.",
             "id": "1465081478342053888",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 241
         },
         {
@@ -2174,8 +2174,8 @@
             "lang": "en",
             "text": "@j_grieshaber @GerberKawasaki That\u2019s #covidiots for you. They\u2019re so hunkered into their narrative they refuse to accept the science and facts that Covid is over and never really was dangerous to the overwhelming majority of the population.",
             "id": "1465081477834543105",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 242
         },
         {
@@ -2183,8 +2183,8 @@
             "lang": "en",
             "text": "@Andrew_Urbanist @chris_williams @PaulaFletcherTO @jjfForward @Peter_Tabuns @dontmesswthedon @SaveJimmie To improve road safety, reduce congestion &amp; emissions post Covid, we need to get people back into transit &amp; that fast. All other alternatives, are not ideal, that includes replacing large chunks of cars w/ e-vehicles. More funding is key.",
             "id": "1465081477394317322",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 243
         },
         {
@@ -2192,8 +2192,8 @@
             "lang": "en",
             "text": "@PolcaDorka But what's now fully vaccinated these days?",
             "id": "1465081475959775235",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 244
         },
         {
@@ -2201,8 +2201,8 @@
             "lang": "en",
             "text": "Informative &amp; practical publication for any professional looking after #children #youngpeople by @SAPHNAsharonOBE &amp; team #LongCovid https://t.co/ol7aQNTCyw https://t.co/DF4zrnj2Gd",
             "id": "1465081475813019651",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 245
         },
         {
@@ -2210,8 +2210,8 @@
             "lang": "en",
             "text": "@AuthorKimberley If only there was precedence and science of past viruses over the last 150 years or so people could have learned from. If only there were a vaccine they could take. \ud83d\ude11",
             "id": "1465081474772779027",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 246
         },
         {
@@ -2219,8 +2219,8 @@
             "lang": "en",
             "text": "Whats your opinion #COVIDIOTS #OmicronVariant #VaccineMandate #vaccination #Mandates #prochoice",
             "id": "1465081474391035907",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 247
         },
         {
@@ -2228,8 +2228,8 @@
             "lang": "en",
             "text": "Despite official guidance (https://t.co/d5aQ0Ksdac) only requiring proper masks to be used in medical settings, the way they are spoken about and depicted suggests other forms of face covering aren\u2019t as broadly acceptable. https://t.co/Bfwa58SU5j",
             "id": "1465081474303111168",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 248
         },
         {
@@ -2237,8 +2237,8 @@
             "lang": "en",
             "text": "@ScottAdamsSays @plutom21 I think this one doesn\u2019t. Then again, it\u2019s not really a vaccine.",
             "id": "1465081474282135557",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 249
         },
         {
@@ -2246,8 +2246,8 @@
             "lang": "en",
             "text": "PM Liar is courting to captain pick his gold standard liar,the woman who unleashed Covid to run in Warringah. You actually cannot make this stuff up. His desperation is exploding along with my brain. #auspol #ScottyThePathologicalLiar #ScottyDoesNothing #ScottyMustGo",
             "id": "1465081473262780418",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 250
         },
         {
@@ -2255,8 +2255,8 @@
             "lang": "en",
             "text": "@ScottMorrisonMP just gave Omicron the red carpet treatment. #OmicronVariant #LNPFail @AlboMP",
             "id": "1465081471236907013",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 251
         },
         {
@@ -2264,8 +2264,8 @@
             "lang": "en",
             "text": "@animals_trans I think I'm in love Tandy. Not in a sexual way but a spiritual way. Like the love between a person and a vaccine.",
             "id": "1465081470666612739",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 252
         },
         {
@@ -2273,8 +2273,8 @@
             "lang": "en",
             "text": "@Schlippertysch1 @LeeHurstComic Covid obsessed \ud83e\udd21",
             "id": "1465081470423375877",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 253
         },
         {
@@ -2282,8 +2282,8 @@
             "lang": "en",
             "text": "And when looking at a database of British newspaper reporting (https://t.co/74GTv7g3yS) from the COVID pandemic, it\u2019s also clear that journalists refer to \u201cmasks\u201d more often than to \u201cface coverings\u201d.",
             "id": "1465081470339457029",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 254
         },
         {
@@ -2291,8 +2291,8 @@
             "lang": "en",
             "text": "@JD864511320 @DucLauzun @Stormbringer829 @FaceTheNation @RandPaul Which science are you talking  about is it natural immunity  or herd immunity  or just a simple question  why the countries with the highest vaccine  rates have the highest cases as well or how many jobs do you need",
             "id": "1465081470242930691",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 255
         },
         {
@@ -2300,8 +2300,8 @@
             "lang": "en",
             "text": "@MarkLevineNYC What about expats trying to get home to be vaccinated? Please think this through.",
             "id": "1465081469697593348",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 256
         },
         {
@@ -2309,8 +2309,8 @@
             "lang": "en",
             "text": "@SoniaShaw2 @maxiweichs @NicholsSheena @abcnews Another one will come out in a years time, and we\u2019ll go back to the same strategy &amp; achieve nothing.This variant hasn\u2019t shown to be of any concern in South Africa &amp; I understand we need to be cautious, but lockdown is not the answer.Time to face the truth, it\u2019s time to get covid.",
             "id": "1465081469630517252",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 257
         },
         {
@@ -2318,8 +2318,8 @@
             "lang": "en",
             "text": "@cryptotraveler Switzerland just approved vaccine passports. If we have another shut down worldwide in 2022 the economy will collapse",
             "id": "1465081468984647685",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 1,
             "#": 258
         },
         {
@@ -2327,8 +2327,8 @@
             "lang": "en",
             "text": "San Jose Sharks place Evander Kane on waivers after betting allegations, COVID protocol\u00a0\u2026 https://t.co/6V4JtqdkCe",
             "id": "1465081468921778183",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 259
         },
         {
@@ -2336,8 +2336,8 @@
             "lang": "en",
             "text": "@DrTomFrieden Does this mean we need global compulsory vaccination?",
             "id": "1465081468900855809",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 260
         },
         {
@@ -2345,8 +2345,8 @@
             "lang": "en",
             "text": "[VIDEO] Morning Report: US &amp; European sharemarkets tumbled on Friday on fears that that coronavirus mutation #COVID19 could be vaccine resistant. \nhttps://t.co/kOPZVGAskZ",
             "id": "1465081468162490368",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 261
         },
         {
@@ -2354,8 +2354,8 @@
             "lang": "en",
             "text": "Gabon \ud83c\uddec\ud83c\udde6in the coming days will benefit from a vaccine made in Morocco that has been refused by the Moroccan\ud83c\uddf2\ud83c\udde6 people.",
             "id": "1465081467579641856",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 262
         },
         {
@@ -2363,8 +2363,8 @@
             "lang": "en",
             "text": "It\u2019s 2053. \n\nI get my 35th COVID booster. Amazon gives me an extra ration of cockroaches as a reward due to my high climate compliance score.\n\nI sneak off to eat a piece of beef in a back alley meateasy. The government busts me. \n\nI am now manufacturing COVID drones in a gulag.",
             "id": "1465081467176775681",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 263
         },
         {
@@ -2372,8 +2372,8 @@
             "lang": "en",
             "text": "Pfizer Says it can Tweak Current COVID Vaccine in 100 Days if Necessary in Response to Omicron Variant https://t.co/A2xfUY8tBZ",
             "id": "1465081467076239367",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 264
         },
         {
@@ -2381,8 +2381,8 @@
             "lang": "en",
             "text": "@ImJustShaffe Only reason you ain\u2019t touched is cuz you got Covid Delta",
             "id": "1465081466849738753",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 265
         },
         {
@@ -2390,8 +2390,8 @@
             "lang": "en",
             "text": "@WSJ Finally admitting the truth. We don\u2019t give the chicken pox vaccine to people that have antibodies. THINK about that!",
             "id": "1465081466765799431",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 266
         },
         {
@@ -2399,8 +2399,8 @@
             "lang": "en",
             "text": "@XRANDYANDERSONX @drkerrynphelps They\u2019re never going to get 1.4 billion people in Africa vaccinated so\u2026.",
             "id": "1465081464630874116",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 267
         },
         {
@@ -2408,8 +2408,8 @@
             "lang": "en",
             "text": "By contrast, today\u2019s media landscape \u2013 especially social media (https://t.co/vmhEmUylhd) \u2013 allows for individual and personalised voices to be heard to an extent unthinkable in earlier decades.",
             "id": "1465081464031170563",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 268
         },
         {
@@ -2417,8 +2417,8 @@
             "lang": "en",
             "text": "I thought this morning that maybe I had COVID but I think I was just hung over.",
             "id": "1465081463985033220",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 269
         },
         {
@@ -2426,8 +2426,8 @@
             "lang": "en",
             "text": "@JsfordaysP I have felt horrible\u2026 I did have covid back in Sept &amp; I didn\u2019t think you could get it again so soon\u2026 but this is similar to how I felt \ud83d\ude29 I have tried to rest &amp; take vitamins as much as possible but I still feel horrible. If I\u2019m not better tomorrow Im going to the nurse at work https://t.co/kFdPVWjZMK",
             "id": "1465081462592577536",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 1,
             "#": 270
         },
         {
@@ -2435,8 +2435,8 @@
             "lang": "en",
             "text": "@ForexLive @zerohedge Swiss back COVID passport law in refer\u00e8ndum. 61% of voters backed the Covid law despite opposition protests",
             "id": "1465081460222832645",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 271
         },
         {
@@ -2444,8 +2444,8 @@
             "lang": "en",
             "text": "@sunlorrie @CTVToronto the one with mild symptoms,if there is even symptoms\nhttps://t.co/NVbxZjZAeg",
             "id": "1465081459903979525",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 272
         },
         {
@@ -2453,8 +2453,8 @@
             "lang": "en",
             "text": "@InfraRen The year is 2049, Tanner Morgan will be returning for his 33rd season. On other news, found a new variant in Covid-49, oil prices are soaring and it's highest price ever",
             "id": "1465081459870511114",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 273
         },
         {
@@ -2471,8 +2471,8 @@
             "lang": "en",
             "text": "Even influenza in 1918, despite its symptoms being very similar to COVID\u2019s, had arguably more publicly visual characteristics (such as vomiting and diarrhoea) that allowed it to resist public scepticism (https://t.co/yEi4ZbpvBP).",
             "id": "1465081457139933184",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 1,
             "#": 275
         },
         {
@@ -2480,8 +2480,8 @@
             "lang": "en",
             "text": "The (co)inventor of the mRNA vaccine technique has a good point \ud83e\udd14 https://t.co/mMYdgWTmQn",
             "id": "1465081457018298378",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 276
         },
         {
@@ -2489,8 +2489,8 @@
             "lang": "en",
             "text": "@dfi_playah @ezralevant What percentile is 1.4 vaccinated people (symptomatic, not dead) out of 100,000?\ud83e\udd14 https://t.co/6g9amLgtW6",
             "id": "1465081456598794241",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 277
         },
         {
@@ -2498,8 +2498,8 @@
             "lang": "en",
             "text": "@Sara_Tonyn Never liked him either- literally the most selfish player in the NFL, and an idiot to boot who thinks he is a genius. The COVID comments just validated what I allready knew.\n\nBut at this point, they would be the fav to win Superbowl sadly.This is the strongest Packers i have seen",
             "id": "1465081455948804107",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 278
         },
         {
@@ -2507,8 +2507,8 @@
             "lang": "en",
             "text": "Cross border travel between England and Scotland may be restricted to combat the threat posed by the new Omicron variant of coronavirus, says Nicola Sturgeon https://t.co/ls2EysLSlb https://t.co/Enhc5Ma7nS",
             "id": "1465081455172796418",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 279
         },
         {
@@ -2516,8 +2516,8 @@
             "lang": "en",
             "text": "@caltoulson7 @AndrewPRLevi @mrjamesob Wait till you compare vaxxed vs unvaxxed countries....\n\nhttps://t.co/NiPJhSt3jD",
             "id": "1465081454153580549",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 280
         },
         {
@@ -2525,8 +2525,8 @@
             "lang": "en",
             "text": "More omicron cases pop up as world rushes to learn\u00a0more https://t.co/17C9tN9ozF",
             "id": "1465081452781998080",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 281
         },
         {
@@ -2534,8 +2534,8 @@
             "lang": "en",
             "text": "@TheSnac82483091 @MattWalshBlog You mean NIH providing a grant to a lab where COVID first originated from? That\u2019s not him funding the \u201cresearch\u201d. Speaking of which, what\u2019s the \u201cresearch\u201d you\u2019re referring to?",
             "id": "1465081452756885505",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 282
         },
         {
@@ -2543,8 +2543,8 @@
             "lang": "en",
             "text": "COVID has about a 1% mortality rate.\n\nThat's 3 million dead Americans.\n\nIf you're advocating for 'natural immunity' you're advocating for millions of dead bodies.\n\nSay so. https://t.co/Uau5sHc91U",
             "id": "1465081451947479046",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 283
         },
         {
@@ -2552,8 +2552,8 @@
             "lang": "en",
             "text": "@KellyScaletta @atrupar Vaccine immunization provides natural immunity. It IS natural immunity. Your body\u2019s natural response to the vaccine is what is supposed to happen.",
             "id": "1465081450949185539",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 284
         },
         {
@@ -2561,8 +2561,8 @@
             "lang": "en",
             "text": "I guess we're going to find out how deadly a pandemic can actually get This kind of sucks\nAll these vaccine freeloaders are killing innocent people We have a right to protect ourselves too\nWe need to start talking about quarantine non-vaccinated\nhttps://t.co/U2AnLw8Wky",
             "id": "1465081450936500225",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 285
         },
         {
@@ -2570,8 +2570,8 @@
             "lang": "en",
             "text": "Guardian front page, 29 November 2021: Booster scheme may be widened today to tackle Omicron spread https://t.co/dcFSFftocN",
             "id": "1465081449913241604",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 286
         },
         {
@@ -2579,8 +2579,8 @@
             "lang": "en",
             "text": "When Biden said Trump was xenophobic for banning travel from China!  Fake news @cnsnews @MSNBC remembers trashing our President Donald Trump. Biden is special. Biden has fake news media lie, and cover for him. Biden caught without mask in Nantucket.Covid real or not? https://t.co/zWS8S0wZl7",
             "id": "1465081449741275136",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 287
         },
         {
@@ -2588,8 +2588,8 @@
             "lang": "en",
             "text": "While some support wearing them as an effective counter to the virus (https://t.co/XxZeqPHsAr), others believe having to mask up is a contravention of their human rights (https://t.co/xPsJ4EJ4MN).",
             "id": "1465081448906596352",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 288
         },
         {
@@ -2597,8 +2597,8 @@
             "lang": "en",
             "text": "@RagingLibNana Wow.\nSince we first detected Covid in Nov/Dec in 2019.\nI really don\u2019t understand any of your comments.\nCovid 19 is named after the year it was Identified\u2026\nThe year is at the end.\nPS: Covid will not end in 20 months\u2026",
             "id": "1465081447987892227",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 289
         },
         {
@@ -2606,8 +2606,8 @@
             "lang": "en",
             "text": "Korea concerts when Covid in Korea just spiked up again\u2026.well\ud83d\ude2c",
             "id": "1465081447715426305",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 290
         },
         {
@@ -2615,8 +2615,8 @@
             "lang": "en",
             "text": "Do we know if natural immunity is stronger than vaccinated immunity?  Can the scientist answer that question with an actual science based answer? https://t.co/QZxRtyEyrY",
             "id": "1465081447140642818",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 291
         },
         {
@@ -2624,8 +2624,8 @@
             "lang": "en",
             "text": "Cock. \ud83c\udfc2\u26d4 https://t.co/bpSsAaT9vP",
             "id": "1465081445869932551",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 292
         },
         {
@@ -2633,8 +2633,8 @@
             "lang": "en",
             "text": "@wendyayit Weather is not the problem, covid is, difficult to travel now",
             "id": "1465081445169471492",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 293
         },
         {
@@ -2642,8 +2642,8 @@
             "lang": "en",
             "text": "WHO says it is not yet clear if Omicron causes more severe disease https://t.co/8CPIZXnGHS #COVID19",
             "id": "1465081444720652297",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 294
         },
         {
@@ -2651,8 +2651,8 @@
             "lang": "en",
             "text": "@NHWharfRat @4th_26 @LukeCOYSpurs @BJacksonWrites @here4lol No, \"well over 700,000 Americans\" have died with covid, not from it. A 0.02% death rate will never justify the tyrannical lockdowns or mandates our ruling class have imposed on us.\nI have no fear of masks, the commie cough, or any of the other bullshit.\nWhat I fear is tyranny.",
             "id": "1465081444565327873",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 295
         },
         {
@@ -2660,8 +2660,8 @@
             "created_at": "2021-11-28T22:13:28.000Z",
             "lang": "en",
             "id": "1465081433207148544",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 296
         },
         {
@@ -2669,8 +2669,8 @@
             "created_at": "2021-11-28T22:13:27.000Z",
             "lang": "en",
             "id": "1465081431714062345",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 297
         },
         {
@@ -2678,8 +2678,8 @@
             "created_at": "2021-11-28T22:13:27.000Z",
             "lang": "en",
             "id": "1465081430858420233",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 298
         },
         {
@@ -2687,8 +2687,8 @@
             "created_at": "2021-11-28T22:13:27.000Z",
             "lang": "en",
             "id": "1465081430241861636",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 299
         },
         {
@@ -2696,8 +2696,8 @@
             "created_at": "2021-11-28T22:13:27.000Z",
             "lang": "en",
             "id": "1465081429281460226",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 300
         },
         {
@@ -2705,8 +2705,8 @@
             "created_at": "2021-11-28T22:13:26.000Z",
             "lang": "en",
             "id": "1465081427754692608",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 301
         },
         {
@@ -2714,8 +2714,8 @@
             "created_at": "2021-11-28T22:13:26.000Z",
             "lang": "en",
             "id": "1465081427662417928",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 302
         },
         {
@@ -2723,8 +2723,8 @@
             "created_at": "2021-11-28T22:13:26.000Z",
             "lang": "en",
             "id": "1465081426550804480",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 303
         }
     ]
