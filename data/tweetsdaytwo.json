@@ -5,8 +5,8 @@
             "created_at": "2021-11-27T22:14:55.000Z",
             "lang": "en",
             "id": "1464719412167163908",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 1
         },
         {
@@ -14,8 +14,8 @@
             "created_at": "2021-11-27T22:14:55.000Z",
             "lang": "en",
             "id": "1464719411600891909",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 2
         },
         {
@@ -23,8 +23,8 @@
             "created_at": "2021-11-27T22:14:55.000Z",
             "lang": "en",
             "id": "1464719411248435204",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 3
         },
         {
@@ -32,8 +32,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719407754612737",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 4
         },
         {
@@ -41,8 +41,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719407326785540",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 5
         },
         {
@@ -50,8 +50,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719407175843842",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 6
         },
         {
@@ -59,8 +59,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719407104421889",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 7
         },
         {
@@ -68,8 +68,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719406919999495",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 8
         },
         {
@@ -77,8 +77,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719406668427274",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 9
         },
         {
@@ -86,8 +86,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719406357962762",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 10
         },
         {
@@ -95,8 +95,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719405577760769",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 11
         },
         {
@@ -104,8 +104,8 @@
             "created_at": "2021-11-27T22:14:54.000Z",
             "lang": "en",
             "id": "1464719405519183873",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 12
         },
         {
@@ -113,8 +113,8 @@
             "created_at": "2021-11-27T22:14:53.000Z",
             "lang": "en",
             "id": "1464719403770159109",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 13
         },
         {
@@ -122,8 +122,8 @@
             "created_at": "2021-11-27T22:14:53.000Z",
             "lang": "en",
             "id": "1464719403073904651",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 14
         },
         {
@@ -131,8 +131,8 @@
             "created_at": "2021-11-27T22:14:53.000Z",
             "lang": "en",
             "id": "1464719402893463554",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 15
         },
         {
@@ -140,8 +140,8 @@
             "created_at": "2021-11-27T22:14:53.000Z",
             "lang": "en",
             "id": "1464719401152761859",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 16
         },
         {
@@ -149,8 +149,8 @@
             "created_at": "2021-11-27T22:14:52.000Z",
             "lang": "en",
             "id": "1464719400758509569",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 17
         },
         {
@@ -158,8 +158,8 @@
             "created_at": "2021-11-27T22:14:52.000Z",
             "lang": "en",
             "id": "1464719400423022594",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 18
         },
         {
@@ -167,8 +167,8 @@
             "created_at": "2021-11-27T22:14:52.000Z",
             "lang": "en",
             "id": "1464719399038951429",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 19
         },
         {
@@ -176,8 +176,8 @@
             "created_at": "2021-11-27T22:14:52.000Z",
             "lang": "en",
             "id": "1464719398095101954",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 20
         },
         {
@@ -185,8 +185,8 @@
             "created_at": "2021-11-27T22:14:52.000Z",
             "lang": "en",
             "id": "1464719397252173827",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 21
         },
         {
@@ -194,8 +194,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719395842928648",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 22
         },
         {
@@ -203,8 +203,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719395796619266",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 23
         },
         {
@@ -212,8 +212,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719395716886533",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 24
         },
         {
@@ -221,8 +221,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719394047549443",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 25
         },
         {
@@ -230,8 +230,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719393959530496",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 26
         },
         {
@@ -239,8 +239,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719393867251712",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 27
         },
         {
@@ -248,8 +248,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719393544445966",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 28
         },
         {
@@ -257,8 +257,8 @@
             "created_at": "2021-11-27T22:14:51.000Z",
             "lang": "en",
             "id": "1464719393204625419",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 29
         },
         {
@@ -266,8 +266,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719392139268106",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 30
         },
         {
@@ -275,8 +275,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719390868451332",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 31
         },
         {
@@ -284,8 +284,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719389735800832",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 32
         },
         {
@@ -293,8 +293,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719389597466624",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 1,
             "#": 33
         },
         {
@@ -302,8 +302,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719389580832777",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 34
         },
         {
@@ -311,8 +311,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719389262061579",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 35
         },
         {
@@ -320,8 +320,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719389224230921",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 36
         },
         {
@@ -329,8 +329,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719389173891077",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 37
         },
         {
@@ -338,8 +338,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719388502900744",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 38
         },
         {
@@ -347,8 +347,8 @@
             "created_at": "2021-11-27T22:14:50.000Z",
             "lang": "en",
             "id": "1464719388334977026",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 39
         },
         {
@@ -356,8 +356,8 @@
             "created_at": "2021-11-27T22:14:49.000Z",
             "lang": "en",
             "id": "1464719387512999940",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 40
         },
         {
@@ -365,8 +365,8 @@
             "created_at": "2021-11-27T22:14:49.000Z",
             "lang": "en",
             "id": "1464719386787426304",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 41
         },
         {
@@ -374,8 +374,8 @@
             "created_at": "2021-11-27T22:14:49.000Z",
             "lang": "en",
             "id": "1464719386774847494",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 42
         },
         {
@@ -383,8 +383,8 @@
             "created_at": "2021-11-27T22:14:49.000Z",
             "lang": "en",
             "id": "1464719385776558097",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 43
         },
         {
@@ -392,8 +392,8 @@
             "created_at": "2021-11-27T22:14:49.000Z",
             "lang": "en",
             "id": "1464719384598003713",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 44
         },
         {
@@ -401,8 +401,8 @@
             "created_at": "2021-11-27T22:14:48.000Z",
             "lang": "en",
             "id": "1464719384077750272",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 45
         },
         {
@@ -410,8 +410,8 @@
             "created_at": "2021-11-27T22:14:48.000Z",
             "lang": "en",
             "id": "1464719383553585154",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 46
         },
         {
@@ -419,8 +419,8 @@
             "created_at": "2021-11-27T22:14:48.000Z",
             "lang": "en",
             "id": "1464719383062794245",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 47
         },
         {
@@ -428,8 +428,8 @@
             "created_at": "2021-11-27T22:14:48.000Z",
             "lang": "en",
             "id": "1464719382907600905",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 48
         },
         {
@@ -437,8 +437,8 @@
             "created_at": "2021-11-27T22:14:48.000Z",
             "lang": "en",
             "id": "1464719382463008772",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 49
         },
         {
@@ -446,8 +446,8 @@
             "created_at": "2021-11-27T22:14:48.000Z",
             "lang": "en",
             "id": "1464719381716475918",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 50
         },
         {
@@ -455,8 +455,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719379703099399",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 51
         },
         {
@@ -464,8 +464,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719379652915211",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 52
         },
         {
@@ -473,8 +473,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719379246071812",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 3,
             "#": 53
         },
         {
@@ -482,8 +482,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719378755301385",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 54
         },
         {
@@ -491,8 +491,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719378251976711",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 55
         },
         {
@@ -500,8 +500,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719378042134532",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 56
         },
         {
@@ -509,8 +509,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719376494456834",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 57
         },
         {
@@ -518,8 +518,8 @@
             "created_at": "2021-11-27T22:14:47.000Z",
             "lang": "en",
             "id": "1464719376137998336",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 58
         },
         {
@@ -527,8 +527,8 @@
             "created_at": "2021-11-27T22:14:46.000Z",
             "lang": "en",
             "id": "1464719374393110534",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 59
         },
         {
@@ -536,8 +536,8 @@
             "created_at": "2021-11-27T22:14:46.000Z",
             "lang": "en",
             "id": "1464719374284210178",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 60
         },
         {
@@ -545,8 +545,8 @@
             "created_at": "2021-11-27T22:14:46.000Z",
             "lang": "en",
             "id": "1464719374011363328",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 61
         },
         {
@@ -554,8 +554,8 @@
             "created_at": "2021-11-27T22:14:46.000Z",
             "lang": "en",
             "id": "1464719373512462345",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 62
         },
         {
@@ -563,8 +563,8 @@
             "created_at": "2021-11-27T22:14:46.000Z",
             "lang": "en",
             "id": "1464719373206233088",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 63
         },
         {
@@ -572,8 +572,8 @@
             "created_at": "2021-11-27T22:14:46.000Z",
             "lang": "en",
             "id": "1464719373164183554",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 64
         },
         {
@@ -581,8 +581,8 @@
             "created_at": "2021-11-27T22:14:45.000Z",
             "lang": "en",
             "id": "1464719371260076032",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 65
         },
         {
@@ -590,8 +590,8 @@
             "created_at": "2021-11-27T22:14:45.000Z",
             "lang": "en",
             "id": "1464719370794512390",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 66
         },
         {
@@ -599,8 +599,8 @@
             "created_at": "2021-11-27T22:14:45.000Z",
             "lang": "en",
             "id": "1464719369016119304",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 67
         },
         {
@@ -608,8 +608,8 @@
             "created_at": "2021-11-27T22:14:45.000Z",
             "lang": "en",
             "id": "1464719367870947330",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 68
         },
         {
@@ -617,8 +617,8 @@
             "created_at": "2021-11-27T22:14:45.000Z",
             "lang": "en",
             "id": "1464719367795621896",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 69
         },
         {
@@ -626,8 +626,8 @@
             "created_at": "2021-11-27T22:14:45.000Z",
             "lang": "en",
             "id": "1464719367443202055",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 70
         },
         {
@@ -635,8 +635,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719366558306314",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 71
         },
         {
@@ -644,8 +644,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719366281478154",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 72
         },
         {
@@ -653,8 +653,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719365396439041",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 73
         },
         {
@@ -662,8 +662,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719364943400961",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 74
         },
         {
@@ -671,8 +671,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719364477890562",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 75
         },
         {
@@ -680,8 +680,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719364419198982",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 76
         },
         {
@@ -689,8 +689,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719364012142592",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 77
         },
         {
@@ -698,8 +698,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719363953631238",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 78
         },
         {
@@ -707,8 +707,8 @@
             "created_at": "2021-11-27T22:14:44.000Z",
             "lang": "en",
             "id": "1464719363257339905",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 79
         },
         {
@@ -716,8 +716,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719363114688520",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 80
         },
         {
@@ -725,8 +725,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719363043471371",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 81
         },
         {
@@ -734,8 +734,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719362762416137",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 82
         },
         {
@@ -743,8 +743,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719362099752965",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 83
         },
         {
@@ -752,8 +752,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719361692762113",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 84
         },
         {
@@ -761,8 +761,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719361353129986",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 85
         },
         {
@@ -770,8 +770,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719359868235776",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 86
         },
         {
@@ -779,8 +779,8 @@
             "created_at": "2021-11-27T22:14:43.000Z",
             "lang": "en",
             "id": "1464719359373451265",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 87
         },
         {
@@ -788,8 +788,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719358261747712",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 88
         },
         {
@@ -797,8 +797,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719357817364489",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 89
         },
         {
@@ -806,8 +806,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719357590728705",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 90
         },
         {
@@ -815,8 +815,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719356286406664",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 91
         },
         {
@@ -824,8 +824,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719356210794496",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 92
         },
         {
@@ -833,8 +833,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719355912937472",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 93
         },
         {
@@ -842,8 +842,8 @@
             "created_at": "2021-11-27T22:14:42.000Z",
             "lang": "en",
             "id": "1464719355359506439",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 94
         },
         {
@@ -851,8 +851,8 @@
             "created_at": "2021-11-27T22:14:41.000Z",
             "lang": "en",
             "id": "1464719353371312149",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 95
         },
         {
@@ -860,8 +860,8 @@
             "created_at": "2021-11-27T22:14:41.000Z",
             "lang": "en",
             "id": "1464719352884772865",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 96
         },
         {
@@ -869,8 +869,8 @@
             "created_at": "2021-11-27T22:14:41.000Z",
             "lang": "en",
             "id": "1464719352587075588",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 97
         },
         {
@@ -878,8 +878,8 @@
             "created_at": "2021-11-27T22:14:41.000Z",
             "lang": "en",
             "id": "1464719352326987789",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 98
         },
         {
@@ -887,8 +887,8 @@
             "created_at": "2021-11-27T22:14:41.000Z",
             "lang": "en",
             "id": "1464719352276660238",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 99
         },
         {
@@ -896,8 +896,8 @@
             "created_at": "2021-11-27T22:14:41.000Z",
             "lang": "en",
             "id": "1464719351928524800",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 100
         },
         {
@@ -905,8 +905,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719346262249472",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 101
         },
         {
@@ -914,8 +914,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719346018754576",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 102
         },
         {
@@ -923,8 +923,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719345653891074",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 103
         },
         {
@@ -932,8 +932,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719345548943376",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 104
         },
         {
@@ -941,8 +941,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719344915648513",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 105
         },
         {
@@ -950,8 +950,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719344844353538",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 106
         },
         {
@@ -959,8 +959,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719344814940166",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 107
         },
         {
@@ -968,8 +968,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719344194277380",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 108
         },
         {
@@ -977,8 +977,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719344084996096",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 109
         },
         {
@@ -986,8 +986,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719342600429581",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 110
         },
         {
@@ -995,8 +995,8 @@
             "created_at": "2021-11-27T22:14:39.000Z",
             "id": "1464719342491344900",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 111
         },
         {
@@ -1004,8 +1004,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719341077729280",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 112
         },
         {
@@ -1013,8 +1013,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719340364779530",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 113
         },
         {
@@ -1022,8 +1022,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719339991584776",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 114
         },
         {
@@ -1031,8 +1031,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719339479834637",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 115
         },
         {
@@ -1040,8 +1040,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719339370647553",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 116
         },
         {
@@ -1049,8 +1049,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719338309566481",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 117
         },
         {
@@ -1058,8 +1058,8 @@
             "created_at": "2021-11-27T22:14:38.000Z",
             "id": "1464719338053767176",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 118
         },
         {
@@ -1067,8 +1067,8 @@
             "created_at": "2021-11-27T22:14:37.000Z",
             "id": "1464719336279449600",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 119
         },
         {
@@ -1076,8 +1076,8 @@
             "created_at": "2021-11-27T22:14:37.000Z",
             "id": "1464719335046336514",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 120
         },
         {
@@ -1085,8 +1085,8 @@
             "created_at": "2021-11-27T22:14:37.000Z",
             "id": "1464719334622830594",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 121
         },
         {
@@ -1094,8 +1094,8 @@
             "created_at": "2021-11-27T22:14:37.000Z",
             "id": "1464719334518009867",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 122
         },
         {
@@ -1103,8 +1103,8 @@
             "created_at": "2021-11-27T22:14:37.000Z",
             "id": "1464719334031310850",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 123
         },
         {
@@ -1112,8 +1112,8 @@
             "created_at": "2021-11-27T22:14:36.000Z",
             "id": "1464719333687504902",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 124
         },
         {
@@ -1121,8 +1121,8 @@
             "created_at": "2021-11-27T22:14:36.000Z",
             "id": "1464719331468750850",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 125
         },
         {
@@ -1130,8 +1130,8 @@
             "created_at": "2021-11-27T22:14:36.000Z",
             "id": "1464719330730463239",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 126
         },
         {
@@ -1139,8 +1139,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719329019244553",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 127
         },
         {
@@ -1148,8 +1148,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719328599756807",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 128
         },
         {
@@ -1157,8 +1157,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719328444563458",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 129
         },
         {
@@ -1166,8 +1166,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719328054595587",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 130
         },
         {
@@ -1175,8 +1175,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719327786065920",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 131
         },
         {
@@ -1184,8 +1184,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719327765188612",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 132
         },
         {
@@ -1193,8 +1193,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719327471575048",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 133
         },
         {
@@ -1202,8 +1202,8 @@
             "created_at": "2021-11-27T22:14:35.000Z",
             "id": "1464719326401998855",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 134
         },
         {
@@ -1211,8 +1211,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719324686393348",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 135
         },
         {
@@ -1220,8 +1220,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719324351021066",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 136
         },
         {
@@ -1229,8 +1229,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719324028014594",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 137
         },
         {
@@ -1238,8 +1238,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719322991841281",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 138
         },
         {
@@ -1247,8 +1247,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719322446716939",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 139
         },
         {
@@ -1256,8 +1256,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719322295652353",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 140
         },
         {
@@ -1265,8 +1265,8 @@
             "created_at": "2021-11-27T22:14:34.000Z",
             "id": "1464719321930862598",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 141
         },
         {
@@ -1274,8 +1274,8 @@
             "created_at": "2021-11-27T22:14:33.000Z",
             "id": "1464719321121308680",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 142
         },
         {
@@ -1283,8 +1283,8 @@
             "created_at": "2021-11-27T22:14:33.000Z",
             "id": "1464719319942635521",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 143
         },
         {
@@ -1292,8 +1292,8 @@
             "created_at": "2021-11-27T22:14:33.000Z",
             "id": "1464719319129018368",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 144
         },
         {
@@ -1301,8 +1301,8 @@
             "created_at": "2021-11-27T22:14:33.000Z",
             "id": "1464719317937885186",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 145
         },
         {
@@ -1310,8 +1310,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719316788600833",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 146
         },
         {
@@ -1319,8 +1319,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719316666830849",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 147
         },
         {
@@ -1328,8 +1328,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719316155252739",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 148
         },
         {
@@ -1337,8 +1337,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719316008452097",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 149
         },
         {
@@ -1346,8 +1346,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719313613426688",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 150
         },
         {
@@ -1355,8 +1355,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719313458266112",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 151
         },
         {
@@ -1364,8 +1364,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719313181589506",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 152
         },
         {
@@ -1373,8 +1373,8 @@
             "created_at": "2021-11-27T22:14:32.000Z",
             "id": "1464719313063923715",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 153
         },
         {
@@ -1382,8 +1382,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719312304836608",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 154
         },
         {
@@ -1391,8 +1391,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719311763750915",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 155
         },
         {
@@ -1400,8 +1400,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719311545712640",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 1,
             "#": 156
         },
         {
@@ -1409,8 +1409,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719310601945090",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 157
         },
         {
@@ -1418,8 +1418,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719310052544512",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 158
         },
         {
@@ -1427,8 +1427,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719309872189457",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 159
         },
         {
@@ -1436,8 +1436,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719309456957451",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 160
         },
         {
@@ -1445,8 +1445,8 @@
             "created_at": "2021-11-27T22:14:31.000Z",
             "id": "1464719308655935489",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 161
         },
         {
@@ -1454,8 +1454,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719308387500040",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 162
         },
         {
@@ -1463,8 +1463,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719308131553282",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 163
         },
         {
@@ -1472,8 +1472,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719307921788931",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 164
         },
         {
@@ -1481,8 +1481,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719307108085760",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 165
         },
         {
@@ -1490,8 +1490,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719307099803665",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 166
         },
         {
@@ -1499,8 +1499,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719306533613575",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 167
         },
         {
@@ -1508,8 +1508,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719305745047562",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 168
         },
         {
@@ -1517,8 +1517,8 @@
             "created_at": "2021-11-27T22:14:30.000Z",
             "id": "1464719304851529733",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 169
         },
         {
@@ -1526,8 +1526,8 @@
             "created_at": "2021-11-27T22:14:29.000Z",
             "id": "1464719304113496070",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 170
         },
         {
@@ -1535,8 +1535,8 @@
             "created_at": "2021-11-27T22:14:29.000Z",
             "id": "1464719303438180357",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 171
         },
         {
@@ -1544,8 +1544,8 @@
             "created_at": "2021-11-27T22:14:29.000Z",
             "id": "1464719303282860034",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 172
         },
         {
@@ -1553,8 +1553,8 @@
             "created_at": "2021-11-27T22:14:29.000Z",
             "id": "1464719302368579584",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 173
         },
         {
@@ -1562,8 +1562,8 @@
             "created_at": "2021-11-27T22:14:29.000Z",
             "id": "1464719302343360517",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 174
         },
         {
@@ -1571,8 +1571,8 @@
             "created_at": "2021-11-27T22:14:29.000Z",
             "id": "1464719300447461377",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 175
         },
         {
@@ -1580,8 +1580,8 @@
             "created_at": "2021-11-27T22:14:28.000Z",
             "id": "1464719299998715908",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 176
         },
         {
@@ -1589,8 +1589,8 @@
             "created_at": "2021-11-27T22:14:28.000Z",
             "id": "1464719299889741833",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 1,
             "#": 177
         },
         {
@@ -1598,8 +1598,8 @@
             "created_at": "2021-11-27T22:14:28.000Z",
             "id": "1464719298623164426",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 178
         },
         {
@@ -1607,8 +1607,8 @@
             "created_at": "2021-11-27T22:14:28.000Z",
             "id": "1464719297515827210",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 179
         },
         {
@@ -1616,8 +1616,8 @@
             "created_at": "2021-11-27T22:14:27.000Z",
             "id": "1464719295309664266",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 180
         },
         {
@@ -1625,8 +1625,8 @@
             "created_at": "2021-11-27T22:14:27.000Z",
             "id": "1464719294688858113",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 181
         },
         {
@@ -1634,8 +1634,8 @@
             "created_at": "2021-11-27T22:14:26.000Z",
             "id": "1464719291639635976",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 182
         },
         {
@@ -1643,8 +1643,8 @@
             "created_at": "2021-11-27T22:14:26.000Z",
             "id": "1464719291622862855",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 183
         },
         {
@@ -1652,8 +1652,8 @@
             "created_at": "2021-11-27T22:14:26.000Z",
             "id": "1464719290788196361",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 184
         },
         {
@@ -1661,8 +1661,8 @@
             "created_at": "2021-11-27T22:14:26.000Z",
             "id": "1464719289869643780",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 185
         },
         {
@@ -1670,8 +1670,8 @@
             "created_at": "2021-11-27T22:14:26.000Z",
             "id": "1464719289299214336",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 186
         },
         {
@@ -1679,8 +1679,8 @@
             "created_at": "2021-11-27T22:14:26.000Z",
             "id": "1464719288875454467",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 187
         },
         {
@@ -1697,8 +1697,8 @@
             "created_at": "2021-11-27T22:14:25.000Z",
             "id": "1464719283993427972",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 189
         },
         {
@@ -1706,8 +1706,8 @@
             "created_at": "2021-11-27T22:14:25.000Z",
             "id": "1464719283729145856",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 190
         },
         {
@@ -1715,8 +1715,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719283313909767",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 191
         },
         {
@@ -1724,8 +1724,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719282814730245",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 192
         },
         {
@@ -1733,8 +1733,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719282420568068",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 193
         },
         {
@@ -1742,8 +1742,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719281967579140",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 194
         },
         {
@@ -1751,8 +1751,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719281137016842",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 195
         },
         {
@@ -1760,8 +1760,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719280637939720",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 196
         },
         {
@@ -1769,8 +1769,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719279517929473",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 197
         },
         {
@@ -1778,8 +1778,8 @@
             "created_at": "2021-11-27T22:14:24.000Z",
             "id": "1464719279480320009",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 198
         },
         {
@@ -1787,8 +1787,8 @@
             "created_at": "2021-11-27T22:14:23.000Z",
             "id": "1464719277446115337",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 199
         },
         {
@@ -1796,8 +1796,8 @@
             "created_at": "2021-11-27T22:14:23.000Z",
             "id": "1464719277169074180",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 200
         },
         {
@@ -1805,8 +1805,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "GHANA EXCEPTED FROM JOE BIDEN(U.S PRESIDENT) NEW VACCINE REQUIREMENTS TO OTHER FOREIGN NATIONALS https://t.co/9yCHVb1j2A",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 201
         },
         {
@@ -1814,8 +1814,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "the new covid variant sounds like a transformer",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 3,
             "#": 202
         },
         {
@@ -1823,8 +1823,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "Omicron. Moderna is on it! \ud83d\ude42 https://t.co/KHjxcyh7Gz",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 203
         },
         {
@@ -1832,8 +1832,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "@CraigS57646554 @terraceblue1881 @TaggartJoel Crap football team....but totally agree with you on the vaccine!Well said!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 204
         },
         {
@@ -1841,8 +1841,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "@BostonSportsHb @ggreenwald Everything you just wrote is false across the board. CDC provides these stats regularly. And your chances of dying from Covid if vaccinated are about 15X-20X LESS than if unvaccinated (40X less in Texas!!!!!). https://t.co/LwxfOIfSrN",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 205
         },
         {
@@ -1850,8 +1850,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "Goldman Slams Omicron Panic: \"This Mutation Is Unlikely To Be More Malicious; No Reason For Portfolio Changes\"   https://t.co/ZajUytp1FB",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 1,
             "#": 206
         },
         {
@@ -1859,8 +1859,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "@MeghanMcCain @MeghanMcCain darling really.  Covid virants are dangerous.  Perhaps to soon for transformer jokes. Hmmm.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 207
         },
         {
@@ -1868,8 +1868,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "@HopeAldridge @anthjenk @PnPCBC @Carolyn_Bennett Its clear there's one rule for Trudeau and another rule for the rest of us.  He travelled to the G7 summit in June this year with only one dose of the vaccine.  He ignored social distancing and partied without a mask. Do you understand hypocrisy? https://t.co/mgyioTRG2I",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 208
         },
         {
@@ -1877,8 +1877,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "@amoraobscura @RealCandaceO THIS IS UNIVERSAL TAX PAYER FUNDED HEALTHCARE\n\nhttps://t.co/qUKYzvV8RD",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 209
         },
         {
@@ -1886,8 +1886,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "@sajidjavid Excellent progress?\nMade it through summer .. thank you sunshine..\n\nEntering winter.. Moronic, sorry Omicron variant conveniently turns up,so surge in deaths this winter wont be due to the mrna waning vax,just this variant..\n\nReally.. \n\nWell done you omicronic fool",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 210
         },
         {
@@ -1895,8 +1895,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:21.000Z",
             "text": "I really need to take this rapid Covid test but I don\u2019t think I can shove it up my nose. I just simply don\u2019t.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 211
         },
         {
@@ -1904,8 +1904,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:20.000Z",
             "text": "@luvstogarden2 @GrumpyOldMan23 @JamesMelville Evidence of COVID particles are so tiny that if u can breathe out smoke through mask u can breathe in and breathe out COVID too..",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 212
         },
         {
@@ -1913,8 +1913,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:20.000Z",
             "text": "@danwootton @battleaxeBrit1 Definitely sensing Covid fatigue in the air tonight. It\u2019s not 2020 anymore. #DoNotComply",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 3,
             "#": 213
         },
         {
@@ -1922,8 +1922,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:20.000Z",
             "text": "\"You will never be fully vaccinated against corruption.\"\n\n**WINS TWITTER**\n\n#DoNotComply https://t.co/tMtZoIzTxS",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 214
         },
         {
@@ -1931,8 +1931,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:20.000Z",
             "text": "A new analysis of clinical trial results shows that Merck\u2019s antiviral pill for treating COVID-19 is significantly less effective than previously reported in October [but be sure it is way more expensive than Ivermectin or other cheap therapies!] https://t.co/2kKVSGwV1t",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 215
         },
         {
@@ -1940,8 +1940,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:20.000Z",
             "text": "@FunnyGu31492803 @BreitbartNews Build Back Broke...It's America's Vaccine!!!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 216
         },
         {
@@ -1949,8 +1949,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:20.000Z",
             "text": "@MichaelHirsh4 @PasteurVirology Where are the scientists like him these days?  They don't exist because of reliance on technology, so Covid is here to stay.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 217
         },
         {
@@ -1958,8 +1958,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:19.000Z",
             "text": "@OutcomeOptimist @MichaeljSpence8 @Angry_Staffer Voila! These Botswana vaxxed air travelers were tested in Johannesburg. SA virologists are very good. The missing S was a big clue. Read below.\n\nhttps://t.co/gTPZerQTk3",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 218
         },
         {
@@ -1967,8 +1967,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:19.000Z",
             "text": "@angelawhitetoon @TWMCLtd @PPaulCharles Does this mean if I'm just transiting I dnt need a test or proof of vaccine ?",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 219
         },
         {
@@ -1976,8 +1976,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:19.000Z",
             "text": "@OdorRj @Joe__312 @AngryFleas @EarthOne_13 @DanChesler @JBforFL @famousSheymus @eturleye @RobHNY @BongRips4Bongi @R5Philly @QuispMe @Backedwithdata @FighterTh @PootDibou @PamelaEdwards @JoeThejoe4 @JoeSnuffy1965 @ArtysHouse @hahnalytics @MinnesotaExpat @artimusclyde84 @TheCenterStripe @battle_bullshit @TheTangerineTa1 You're wrong. Covid daily deaths in the US are trending down. Daily Covid deaths peaked @ the beginning of 2021 before widespread distribution of the vaccine. The vaccine is very effective at preventing death. https://t.co/4fH2da2GWj",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 220
         },
         {
@@ -1985,8 +1985,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:19.000Z",
             "text": "@nypost How is a Viral Vector(J&amp;J) dif from mRNA(Pfizer) vaccine? mRNA is created in a lab by humans(China), viral vector approach causes your own immune system to build antibodies. Viral vector vaccines w/ FDA approved treatments is the solution! \ud83c\uddfa\ud83c\uddf8\ud83d\udc4d\ud83c\udffc",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 221
         },
         {
@@ -1994,8 +1994,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:19.000Z",
             "text": "Good news. \n\nSouth African medical association says Omicron variant causes 'mild disease' https://t.co/08GkLAFO2E via @timesofindia",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 222
         },
         {
@@ -2003,8 +2003,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:19.000Z",
             "text": "@Mandoline_Blue Yes, according to BBC\nBBC News - Covid: Will there be another lockdown in the UK?\nhttps://t.co/JcCsumJXqa",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 3,
             "#": 223
         },
         {
@@ -2012,8 +2012,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "@yeshelloimanna So you dan't have covid",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 224
         },
         {
@@ -2021,8 +2021,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "@Akirkland_DPT @RealCandaceO Flu vaccine isnt mandated.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 225
         },
         {
@@ -2030,8 +2030,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "I\u2019m sorry but they\u2019ve gotta stop giving the COVID variants badass names",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 226
         },
         {
@@ -2039,8 +2039,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "@Daslurry1 @TheFreds @PrisonPlanet It's not a vaccine.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 227
         },
         {
@@ -2048,8 +2048,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "Just a minute.\nThere are people who got vaccinated and now want to get de-vaccinated using extreme measures?\n\nHere, have some chicken soup and a lie down. https://t.co/06Ym3RRDgX",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 228
         },
         {
@@ -2057,8 +2057,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "@sajidjavid Not boosters - it\u2019s a third jab. The Moderna jab!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 229
         },
         {
@@ -2066,8 +2066,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "Your growth starts with you, build up and build an empire. #BTSARMY #Omicron #shottymills #viral #trending #trendingnow",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 230
         },
         {
@@ -2075,8 +2075,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:18.000Z",
             "text": "@CeckG @NurseClaire2 Not a vaccine. It's a bio weapon",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 231
         },
         {
@@ -2084,8 +2084,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "Don\u2019t forget the countries that @SenateGOP @HouseGOP @GOPLeader @LeaderMcConnell had a fit when @POTUS suggested giving third country vaccine as to get a hold on it AFTER Orange Oompah Loompa Trump and kushner @Mike_Pence  lied and misinformed everyone https://t.co/zWhUIYrReL",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 232
         },
         {
@@ -2093,8 +2093,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "https://t.co/mW2VkmeT08\n\nAs countries scrambled to contain a new Covid-19 variant called omicron, scientists have said they are unsurprised at its emergence.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 233
         },
         {
@@ -2102,8 +2102,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "Hypocritically, #Murdoch who owns @FoxNews, while Fox runs a campaign telling people the #Covid19 vaccine is not safe &amp; not to take it. \n\nMurdoch, was one of first people to get vaccine in UK on the #British \"socialist\" #NHS, which again #Fox criticises!\n\nhttps://t.co/gJ9n8TaaBB https://t.co/jw5P7SfJhP",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 234
         },
         {
@@ -2111,8 +2111,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "Passengers arriving in Holland from South Africa 'positive for Covid'} https://t.co/2WGH9o6m3J via @",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 235
         },
         {
@@ -2120,8 +2120,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "BTS All Set for Its First Live Concert in Los Angeles SoFi Stadium Since Covid-19 Pandemic Began",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 236
         },
         {
@@ -2129,8 +2129,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "@KudaDee1 @mhofela_mhofu @HHichilema With COVID not many people are coming to see anything, perhaps we solve some bread and butter issues, you are always crying about employement....",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 237
         },
         {
@@ -2138,8 +2138,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "Me: I might be able to go home for a visit soon\nCovid: Omicron...",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 238
         },
         {
@@ -2147,8 +2147,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "Feeling worn down by all of the news and updates? Take a break from social media for a while. \ud83d\udc26\n\n#COVID19 #COVID",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 239
         },
         {
@@ -2156,8 +2156,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:17.000Z",
             "text": "@oflynnsocial I like the concept:\n1. Vaccinate\n2. Recover or \n3. Die\n\n1. I'm vaxxed &amp; boostered\n\n2. I've been trying really hard to catch this bloody (clotty) Covid virus since Cheltenham Gold Cup March 2020 - Totally without success.\n\n3. Unlike 2 of my friends I'm not Dead yet !!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 240
         },
         {
@@ -2165,8 +2165,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:16.000Z",
             "text": "@Covid19Critical Two things in this article concern me greatly:\n\n1.  It contains the words, \u201cFauci says\u2026\u201d\n\n2.  It says, \u201cOmicron\u00a0has a high number of mutations\u201d. \n\nWell isn\u2019t the pill Merck is making aimed at causing errors in the virus\u2019s DNA, which will subsequently cause a high # of mutations?",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 241
         },
         {
@@ -2174,8 +2174,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:16.000Z",
             "text": "Sup, Moderna booster? You looking sexy as fuck. I'm surrounded by maskless corn-fed meth heads and alcoholics in the Dollar Tree and all I can think about is you.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 242
         },
         {
@@ -2183,8 +2183,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:16.000Z",
             "text": "@danwootton @futureking57 Majority of us have survived Covid this far, now most double or triple Vaccinated, if you do not believe you are well protected you are truly lost down the rabbit hole.They told us to trust the vaccine. Now do what they told us. Trust it and live your life .",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 243
         },
         {
@@ -2192,8 +2192,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:16.000Z",
             "text": "Waiting for Ardern to spontaneously announce more restrictions because there's a new variant. \n\n'The new system means we won't go back.'\n\n'We are going back; Omicron changes everything.'\n\nStfu. Just let me get covid already.\n\n#covid19nz #nzpol #fearmongering",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 244
         },
         {
@@ -2201,8 +2201,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:16.000Z",
             "text": "Can you tell me how deadly this virus is?\n\nYou are scaring me\n\nHow many people in the UK have it and were they vaccinated? https://t.co/RbT8NrAIqv",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 245
         },
         {
@@ -2210,8 +2210,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:16.000Z",
             "text": "@BorisJohnson Omicron COVID variant? What is it? Omicron is the 15 letter of the Greek alphabet but apart from being an alphabetical character, it is also the definition of a beefed-up COVID-19 variant with the potential to infect people at a lightning speed!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 246
         },
         {
@@ -2219,8 +2219,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "@SportsCenter Donald Trump speaks on the new \"Omicron Variant\" South African variant  #Omicron #OmicronVariant  #DonaldTrump\n\nhttps://t.co/IRNJGmz3Rb",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 247
         },
         {
@@ -2228,8 +2228,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "@StephenMossGdn The omicron variant has a lot to answer for!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 248
         },
         {
@@ -2237,8 +2237,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "@catturd2 Was it one of your idiot anti-vaxxer friends getting taken out by COVID?",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 249
         },
         {
@@ -2246,8 +2246,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "Kuwait reports 21 new Covid-19 cases, no deaths\n\nhttps://t.co/LxqufL2r06\n\n#KUNA #KUWAIT https://t.co/QqqBIxsjep",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 250
         },
         {
@@ -2255,8 +2255,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "\"South African doctor says omicron variant symptoms \u2018unusual but mild\u2019 \"https://t.co/WiLM1V3jqO #FoxNews \n\nIn other words, \"This really isn't a big deal\".",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 1,
             "#": 251
         },
         {
@@ -2264,8 +2264,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "@banterbear @WhoseBacon @ToastTea369 @Finneganporter Again restricted and with preference to pfizer. The fact of the matter is that myocarditis is a generalized inflammatory response caused by all vaccines at varying rates. It's caused to a greater degree in the actual illnesses they protect against. The net is a benefit not a risk",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 252
         },
         {
@@ -2273,8 +2273,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:15.000Z",
             "text": "Are non-woke critics still allowed..? \n\nObviously they won\u2019t be for long..\n\n#skypapers #DowningStreetBriefing #woke #Omicron #DoNotComply https://t.co/nWN2UieZ7j",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 2,
             "#": 253
         },
         {
@@ -2282,8 +2282,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:14.000Z",
             "text": "Pfizer Centers \u2026 Register and Take Your Vaccine \u2026 https://t.co/oRIDuSOaEs",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 254
         },
         {
@@ -2291,8 +2291,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:14.000Z",
             "text": "@FellsmerePD @indianriverfire NY Gov Declare \u2018Covid Emergency\u2019 lockdown business\n\nVero Sheriff/judges, please hurry, give me little reparation (Tsai Bassen) the rest of sex drug $200 B help residents build business district, get ready for big city business, all had jobs, become heroes\n\nhttps://t.co/rSwJTtkcaR",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 255
         },
         {
@@ -2300,8 +2300,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:14.000Z",
             "text": "@angie_rasmussen I'll layer other precautions with my vaccination, as long as theatres don't have to close again. Because that shit will end me. I can't handle another 2020.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 256
         },
         {
@@ -2309,8 +2309,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:14.000Z",
             "text": "@whattheslark @tribalcoin @Retail_Stonks @NancyTracker Do you have something that shows what\u2019s in the mRNA vaccine?",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 257
         },
         {
@@ -2318,8 +2318,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:14.000Z",
             "text": "@BethAsutton1 Not sure it\u2019s any comparison to the travesty of pushing a not proven safe vaccine on kids to prevent something they have no significant risk from.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 258
         },
         {
@@ -2327,8 +2327,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "@HVugla @spectatorindex Certificate of vaccination ID - C.O.V.I.D.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 259
         },
         {
@@ -2336,8 +2336,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "@jj4bz @critica18495985 what's made by the m-RNA in the vaccine or a natural infection",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 260
         },
         {
@@ -2345,8 +2345,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "Angry Trump Supporters Slam Fox News For Biased Coverage Of Trump, Covid Vaccines: 'Shame on Fox!' https://t.co/H687tN60Xo via @gatewaypundit",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 261
         },
         {
@@ -2354,8 +2354,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "New covid strain-&gt; travel restrictions-&gt; less demand for fuel -&gt; oil prices will drop -&gt; Azerbaijan's economy will shrink more",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 262
         },
         {
@@ -2363,8 +2363,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "@TSoup16 @kokeshimum @KarenStopHate @jfranklynh Just how my Pfizer affected me, after 2 AZ.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 263
         },
         {
@@ -2372,8 +2372,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "The new variant Omicron is an excuse amid the double vaccinated outbreak.  The vaxx is not working...off course is not, is not a vax.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 264
         },
         {
@@ -2381,8 +2381,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:13.000Z",
             "text": "@KETV Both Pfizer and Moderna are tweaking their vaccines for new variants. Stacking shot after shot without any data on long term effects is already dangerous, and getting what's on the market now in hopes to prevent Omicron is ignorance.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 265
         },
         {
@@ -2390,8 +2390,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:12.000Z",
             "text": "@BicknellAlf @RealCandaceO They are mutating because of the vaccine",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 266
         },
         {
@@ -2399,8 +2399,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:12.000Z",
             "text": "And the only ones that die with covid are in the hospital. Haven't heard of anyone dying at home with it https://t.co/dOVNGGMQ2k",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 267
         },
         {
@@ -2408,8 +2408,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:12.000Z",
             "text": "assistant director gave me some great advice for recovering from covid and having shortness of breathe and sore lungs. Breathe in until all oxygen is gone and hold for 4 seconds (can be shorter) then Breathe out until all air is gone and hold for 4. Its been helping me loads!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 1,
             "#": 268
         },
         {
@@ -2417,8 +2417,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:12.000Z",
             "text": "@SonyPicturesUK And no one is going to see it because #Omicron has other ideas!",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 269
         },
         {
@@ -2426,8 +2426,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:11.000Z",
             "text": "Pitch: Moderna, Pfizer, AstraZeneca, Novavox, Johnson &amp; Johnson are the Covid Avengers. Having defeated the variant Delta, they prepare to face the next boss --variant OMNICRON!!! &lt;Omnicron appears, shoots ball lightning out his mouth&gt;",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 1,
             "#": 270
         },
         {
@@ -2435,8 +2435,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:11.000Z",
             "text": "@Breaking911 Symptoms are muscle aches and tiredness.  \n\nhttps://t.co/YhmHIh8Rv6",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 271
         },
         {
@@ -2444,8 +2444,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:11.000Z",
             "text": "@peterjukes #COVID19 : Two cases of new variant #Omicron detected in UK.\n\nSo #Facemask wearing is now mandatory. In effect that means 50% of #TfL passengers on the London Underground and buses will continue to say bugger off.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 1,
             "#": 272
         },
         {
@@ -2453,8 +2453,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:11.000Z",
             "text": "@SGBarbour Which \u2018authoritarian right\u2019 is it that created good times? George W\u2019s ruinous wars and market collapse or Donald Trump\u2019s grift and botched Covid recession? I\u2019m genuinely curious. Seems like for the third time in a row a Democratic admin is nursing the economy back to health.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 273
         },
         {
@@ -2462,8 +2462,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:10.000Z",
             "text": "@Femi_Sorry Gibraltar cancels Christmas despite entire population being vaccinated. There is a Covid-19 spike despite mask mandates and a 100 per cent vaccine take-up. https://t.co/19nhfPjmWE",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 274
         },
         {
@@ -2471,8 +2471,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:10.000Z",
             "text": "Trying to make a little change \n\n#BTSCONCERT #HaveASafeFlightARMY #k2zoektk3 #Omicron #coronavirus #NatashaMillion #JOOXTHTOP100 #YOUNGJAE1stLiveCOLORSfromArs https://t.co/pmlD5cVdnP",
-            "topic": null,
-            "sentiment": null,
+            "topic": 7,
+            "sentiment": 1,
             "#": 275
         },
         {
@@ -2480,8 +2480,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:10.000Z",
             "text": "Mark Dolan: The Omicron variant has all the makings of an omni-con and a... https://t.co/Pgy6drdOGz via @YouTube",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 276
         },
         {
@@ -2489,8 +2489,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:10.000Z",
             "text": "Seriously????????\n\nSouth African doctor says omicron variant symptoms \u2018unusual but mild\u2019 https://t.co/CJEJg6JHV5 #FoxNews",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 277
         },
         {
@@ -2498,8 +2498,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:10.000Z",
             "text": "@thecockcrows @MrsArsington @nunayabidnizz @coonsumed You don't understand how the Greek alphabet works, repeat stupid BS from other idiots, and we are the morons?\ud83e\udd26\u200d\u2640\ufe0f\nDude, Covid destroyed my health, took away everything I loved in my live, no more playing or coaching soccer, I know it's real &amp; wouldn't wish my experience on anyone.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 2,
+            "sentiment": 2,
             "#": 278
         },
         {
@@ -2507,8 +2507,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:10.000Z",
             "text": "Governor-elect vows to strike down vaccine, mask mandates in January | Local News | https://t.co/cCdbax5QwG https://t.co/vx43IYg4eT",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 279
         },
         {
@@ -2516,8 +2516,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:09.000Z",
             "text": "Many scientists have concluded the Huanan Seafood Market may have been a super spreader event in late 2019, but that it's not where COVID began.\n\nWhen told that Beijing acknowledged that they don\u2019t think it originated in the market, Fauci disagreed.\n\nhttps://t.co/QWu3yVdbWR",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 280
         },
         {
@@ -2525,8 +2525,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:09.000Z",
             "text": "@ThomasKGSlinger @JeanGen09181213 @Hel3nrose @JackSapsford The government is on one hand enforcing a mask mandate and on the other giving out lucrative contracts for masks without any competitive process.\n\nThe covid gravy train is real.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 4,
+            "sentiment": 2,
             "#": 281
         },
         {
@@ -2534,8 +2534,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:09.000Z",
             "text": "@HeartlandSignal FFS. \n\nYou know how Republicans could defeat this nefarious liberal plot?\n\nBY GETTING FUCKING VACCINATED.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 282
         },
         {
@@ -2543,8 +2543,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:09.000Z",
             "text": "@TXBobcatmomma @itsa2waystreet8 @MickeyKeenan @tedcruz Polio isn't a coronavirus.  Pretty easy to eradicate with a vaccine.    Gene therapy does nothing against a respiratory infection.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 283
         },
         {
@@ -2552,8 +2552,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:08.000Z",
             "text": "@ChocoStarfsh Hypocritically, #Murdoch who owns @FoxNews, while Fox runs a campaign telling people the #Covid19 vaccine is not safe &amp; not to take it. \n\nMurdoch, was one of first people to get vaccine in UK on the #British \"socialist\" #NHS, which again #Fox criticises!\n\nhttps://t.co/gJ9n8TaaBB",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 284
         },
         {
@@ -2561,8 +2561,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:08.000Z",
             "text": "COVID-19: stigmatising the unvaccinated is not justified - The Lancet https://t.co/4ZwGycVQdP",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 285
         },
         {
@@ -2570,8 +2570,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:08.000Z",
             "text": "@ScottAdamsSays Had no idea that you were part of the borg on this issue Scott. Sad to see.\n\nDon't project your delusions onto others though. The death wishes are coming from the vaccine pushers.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 286
         },
         {
@@ -2579,8 +2579,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:08.000Z",
             "text": "@jenleahhh COVID-19 and Nerve Gas\n\nThe vacs is a nerve gas reagent injection, Father Bunny. The Guadalcanal is where they dumped the ships containing the gas canisters after WW2. The recent test of East Wind rocket is to demonstrate they have the range;)\n\nhttps://t.co/lwZ6iUGiX7",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 287
         },
         {
@@ -2588,8 +2588,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:08.000Z",
             "text": "@trainfanmatt @callumLtfc @BorisJohnson Vaccinations are never perfect. I am double-jabbed and caught covid 2 weeks ago.\n\nHowever, they reduce the degree and consequences of potential harm. I will be taking every shot that's offered.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 288
         },
         {
@@ -2597,8 +2597,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "COVID UPDATE: All international arrivals entering #England must take a day 2 PCR test and self-isolate until they receive a negative result.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 289
         },
         {
@@ -2606,8 +2606,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "@News24 \nYour covid tracker is not working for the metros level\nKeeps picking up data from 7 October\n(Provincial data is correct)",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 290
         },
         {
@@ -2615,8 +2615,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "I think we all got bored of the Covid news updates now lol",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 291
         },
         {
@@ -2624,8 +2624,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "@vivavelo @Yancy10005 @lasvegasgirl88 @trustscience92 Who knows if they would have been saved. Not the point. Point is less than 1.6% of total covid cases resulted in death. If you think about age of deaths than even lower. So it should still be a choice. It is still BS politics pitting up against each other. Look at stats.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 2,
             "#": 292
         },
         {
@@ -2633,8 +2633,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "@BiebLovato2011 @vtmint @Thuso1Africa Some people cannot get vaccinated. Some morons choose not to get vaccinated. \n\nYour choice effects them.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 293
         },
         {
@@ -2642,8 +2642,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "Lets go brandon mask fjb face mask trump this is not freedom vaccine pick 1 https://t.co/eSlcmay6fy",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 294
         },
         {
@@ -2651,8 +2651,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "Yeah..........Omicron-Specific Booster Shot Planned by Moderna for New Coronavirus Variant https://t.co/XPMCh7n9bn",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 3,
             "#": 295
         },
         {
@@ -2660,8 +2660,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:07.000Z",
             "text": "@JackPosobiec Sick right now. Don't know if it's COVID. Started a week ago with a sore throat that lingered until about Wed when it finally turned into a cough and a slight runny nose. Now I'm more stuffed up &amp; feels mostly like a sinus infection, but never lost sense of taste or smell.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 5,
+            "sentiment": 3,
             "#": 296
         },
         {
@@ -2669,8 +2669,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:06.000Z",
             "text": "Nurse Sounds Alarm On Heinous Medical Malpractice: Immediate Intubation, Remdesivir Killed Covid Patients https://t.co/39FazDgVGO",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 2,
             "#": 297
         },
         {
@@ -2678,8 +2678,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:06.000Z",
             "text": "Two Isles games postponed due to COVID issues https://t.co/kw9oFV7FFi https://t.co/PBx8CYDgpD",
-            "topic": null,
-            "sentiment": null,
+            "topic": 6,
+            "sentiment": 3,
             "#": 298
         },
         {
@@ -2687,8 +2687,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:06.000Z",
             "text": "Just read a comment that people are not taking covid seriously because it\u2019s not making them \u201cvisibly disabled\u201d and i am both not surprised and completely disgusted.",
-            "topic": null,
-            "sentiment": null,
+            "topic": 3,
+            "sentiment": 2,
             "#": 299
         },
         {
@@ -2696,8 +2696,8 @@
             "lang": "en",
             "created_at": "2021-11-27T22:14:06.000Z",
             "text": "Wellington the second health board to reach 90 per cent Covid-19 vaccination status https://t.co/FD8dpNPjP7",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 1,
             "#": 300
         }
     ]
