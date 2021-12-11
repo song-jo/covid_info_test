@@ -83,23 +83,32 @@ def compute_stat(wordcounts):
     return stat_dict
 
 def sortandkeepn(stat_dict, n):
-    for pony in stat_dict:
-        stat_dict[pony].sort(key = lambda x: x[1], reverse = True)
-        stat_dict[pony] = stat_dict[pony][:n]
+    for topic in stat_dict:
+        stat_dict[topic].sort(key = lambda x: x[1], reverse = True)
+        stat_dict[topic] = stat_dict[topic][:n]
         #stat_dict[pony] = [x[0] for x in stat_dict[pony]]
     return stat_dict
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input')
+    parser.add_argument('-j', '--input2')
+    parser.add_argument('-k', '--input3')
     parser.add_argument('-o', '--output')
     args = parser.parse_args()
+    
+    
     topics = {"vaccination":{}, "variants":{}, "safety measures":{}, "economy":{}, "symptoms":{}, "news":{}, "other":{}}
     stopwords = getstopwords(os.path.join(parentdir, 'data', 'stopwords.txt'))
     compute_word_count(read_json(args.input), topics, stopwords)
+    compute_word_count(read_json(args.input2), topics, stopwords)
+    compute_word_count(read_json(args.input3), topics, stopwords)
+    
     remove_non_freq(topics)
     stats = compute_stat(topics)
     sortandkeepn(stats, 10)
+    
     write_to_output(stats, args.output)
+    
     
 
 
