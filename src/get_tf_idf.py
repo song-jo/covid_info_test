@@ -6,11 +6,10 @@ import re
 import math
 parentdir = Path(__file__).parents[1]
 """
-USAGE: python3 get_tf_idf.py -i ../data/tweetsday*.json -o outputfile
+USAGE: python3 get_tf_idf.py -i ../data/tweetsdayone.json -j ../data/tweetsdaytwo.json -k ../data/tweetsdaythree.json -o outputfile
 
 Computes 10 highest tf-idf words for each topic for one jsonfile
 
-TODO: do it for all jsonfile together
 
 """
 
@@ -86,7 +85,7 @@ def sortandkeepn(stat_dict, n):
     for topic in stat_dict:
         stat_dict[topic].sort(key = lambda x: x[1], reverse = True)
         stat_dict[topic] = stat_dict[topic][:n]
-        #stat_dict[pony] = [x[0] for x in stat_dict[pony]]
+        #stat_dict[topic] = [x[0] for x in stat_dict[topic]]
     return stat_dict
 def main():
     parser = argparse.ArgumentParser()
