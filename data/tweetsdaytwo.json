@@ -1688,8 +1688,8 @@
             "created_at": "2021-11-27T22:14:25.000Z",
             "id": "1464719285008351243",
             "lang": "en",
-            "topic": null,
-            "sentiment": null,
+            "topic": 1,
+            "sentiment": 2,
             "#": 188
         },
         {
