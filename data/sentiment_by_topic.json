@@ -1,0 +1,42 @@
+{
+    "vaccination": {
+        "positive": 122,
+        "negative": 146,
+        "neutral": 23
+    },
+    "variants": {
+        "positive": 38,
+        "negative": 88,
+        "neutral": 73
+    },
+    "safety measures": {
+        "positive": 33,
+        "negative": 106,
+        "neutral": 25
+    },
+    "economy": {
+        "positive": 8,
+        "negative": 30,
+        "neutral": 5
+    },
+    "symptoms": {
+        "positive": 10,
+        "negative": 31,
+        "neutral": 16
+    },
+    "news": {
+        "positive": 24,
+        "negative": 54,
+        "neutral": 91
+    },
+    "other": {
+        "positive": 16,
+        "negative": 27,
+        "neutral": 34
+    },
+    "total": {
+        "positive": 251,
+        "negative": 482,
+        "neutral": 267
+    }
+}
